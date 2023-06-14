@@ -17,3 +17,5 @@ properties:
     title: Reference Doc (Paste Doc ID)
     # a string is text
     type: number
+categories:
+  - extraction
